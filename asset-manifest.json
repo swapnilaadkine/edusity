@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/edusity/static/css/main.8fade9dd.css",
-    "main.js": "/edusity/static/js/main.6c61ac00.js",
+    "main.css": "/edusity/static/css/main.e21c7c66.css",
+    "main.js": "/edusity/static/js/main.2a2a431b.js",
     "static/js/453.729eb812.chunk.js": "/edusity/static/js/453.729eb812.chunk.js",
     "static/media/clg-video.mp4": "/edusity/static/media/clg-video.88fcb69a48e596f59853.mp4",
     "static/media/hero.png": "/edusity/static/media/hero.1c44fc731e824d345d6b.png",
@@ -18,12 +18,12 @@
     "static/media/user-4.png": "/edusity/static/media/user-4.50ce69a0306667eba2c1.png",
     "static/media/user-1.png": "/edusity/static/media/user-1.1f46bb883fe387830efd.png",
     "index.html": "/edusity/index.html",
-    "main.8fade9dd.css.map": "/edusity/static/css/main.8fade9dd.css.map",
-    "main.6c61ac00.js.map": "/edusity/static/js/main.6c61ac00.js.map",
+    "main.e21c7c66.css.map": "/edusity/static/css/main.e21c7c66.css.map",
+    "main.2a2a431b.js.map": "/edusity/static/js/main.2a2a431b.js.map",
     "453.729eb812.chunk.js.map": "/edusity/static/js/453.729eb812.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fade9dd.css",
-    "static/js/main.6c61ac00.js"
+    "static/css/main.e21c7c66.css",
+    "static/js/main.2a2a431b.js"
   ]
 }
